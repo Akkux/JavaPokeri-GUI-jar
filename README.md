@@ -1,2 +1,2 @@
 # JavaPokeri-GUI-jar
-JavaPokerin graafisen version executable JAR file
+JavaPokerin graafisen version JAR-tiedosto
